@@ -1,7 +1,249 @@
-La 1 HD,La 1 Super UHD 4k,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
-La 2,La 2 Super Full HD 8k
-A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s
-Canal.TV.Azteca.Mundo.mx,MX | Canal TV Azteca
-AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
-Eleven Sports 1,Eleven Sports 1 Polonia
-Eleven Sports 2,Eleven Sports 2 Polonia
+La 1 HD,La 1 HD
+La 2,La 2
+Antena 3 HD,Antena 3 HD
+Cuatro HD,Cuatro HD
+Telecinco HD,Telecinco HD
+La Sexta HD,La Sexta HD
+Movistar Plus+ HD,Movistar Plus+ HD
+M+ Estrenos HD,M+ Estrenos HD
+M+ Hits HD,M+ Hits HD
+M+ Originales HD,M+ Originales HD
+M+ Los Goya,M+ Los Goya
+M+ Documentales HD,M+ Documentales HD
+M+ Demi Moore,M+ Demi Moore
+La Resistencia 24H,La Resistencia 24H
+M+ Clásicos HD,M+ Clásicos HD
+M+ Acción HD,M+ Acción HD
+M+ Comedia HD,M+ Comedia HD
+M+ Drama HD,M+ Drama HD
+M+ Indie HD,M+ Indie HD
+M+ Cine Español,M+ Cine Español
+M+ PopUp,M+ PopUp
+M+ PopUp 2,M+ PopUp 2
+TCM HD,TCM HD
+BBC Drama,BBC Drama
+BBC Top Gear,BBC Top Gear
+Paramount Network,Paramount Network
+Be Mad,Be Mad
+STAR Channel HD,STAR Channel HD
+AXN HD,AXN HD
+Warner TV HD,Warner TV HD
+Comedy Central HD,Comedy Central HD
+Calle 13 HD,Calle 13 HD
+Cosmo HD,Cosmo HD
+SyFy HD,SyFy HD
+Energy,Energy
+Factoría de Ficción,Factoría de Ficción
+Neox,Neox
+Caza y Pesca HD,Caza y Pesca HD
+Iberalia TV,Iberalia TV
+National Geographic HD,National Geographic HD
+Nat Geo Wild HD,Nat Geo Wild HD
+BBC History,BBC History
+Discovery,Discovery
+BBC Food,BBC Food
+Divinity,Divinity
+Nova,Nova
+Baby TV,Baby TV
+Disney Junior,Disney Junior
+Nick JR,Nick JR
+Nickelodeon HD,Nickelodeon HD
+Dreamworks HD,Dreamworks HD
+Boing,Boing
+Clan,Clan
+MTV España,MTV España
+MTV 00s,MTV 00s
+Mezzo,Mezzo
+Mezzo Live HD,Mezzo Live HD
+Classica HD,Classica HD
+24 Horas,24 Horas
+Canal Sur Andalucía,Canal Sur Andalucía
+Canal Sur HD,Canal Sur HD
+Andalucía TV,Andalucía TV
+Max Avances,Max Avances
+SkyShowtime,SkyShowtime
+AXN Movies HD,AXN Movies HD
+TRECE,TRECE
+Atreseries,Atreseries
+Real Madrid TV,Real Madrid TV
+Garage TV,Garage TV
+UBEAT,UBEAT
+DMAX,DMAX
+DKISS,DKISS
+Mega,Mega
+Ten,Ten
+EuroNews,EuroNews
+M+ Copa del Rey,M+ Copa del Rey
+M+ Vamos HD,M+ Vamos HD
+M+ LaLiga TV HD,M+ LaLiga TV HD
+DAZN LaLiga HD,DAZN LaLiga HD
+LaLiga TV Hypermotion HD,LaLiga TV Hypermotion HD
+M+ LaLiga TV 2 HD,M+ LaLiga TV 2 HD
+DAZN LaLiga 2 HD,DAZN LaLiga 2 HD
+LaLiga TV Hypermotion 2,LaLiga TV Hypermotion 2
+M+ Liga de Campeones HD,M+ Liga de Campeones HD
+M+ Liga de Campeones 2 HD,M+ Liga de Campeones 2 HD
+M+ Liga de Campeones 3 HD,M+ Liga de Campeones 3 HD
+M+ Deportes HD,M+ Deportes HD
+M+ Deportes 2 HD,M+ Deportes 2 HD
+M+ Deportes 3,M+ Deportes 3
+M+ Ellas Vamos HD,M+ Ellas Vamos HD
+M+ Golf HD,M+ Golf HD
+M+ Golf 2 HD,M+ Golf 2 HD
+DAZN F1 HD,DAZN F1 HD
+DAZN 1 HD,DAZN 1 HD
+DAZN 2 HD,DAZN 2 HD
+Eurosport 1 HD,Eurosport 1 HD
+Eurosport 2,Eurosport 2
+GOL PLAY,GOL PLAY
+Teledeporte,Teledeporte
+M+ LaLiga TV 3 HD,M+ LaLiga TV 3 HD
+M+ LaLiga TV 4,M+ LaLiga TV 4
+M+ Liga de Campeones 14,M+ Liga de Campeones 14
+M+ Liga de Campeones 15,M+ Liga de Campeones 15
+M+ Liga de Campeones 16,M+ Liga de Campeones 16
+M+ Liga de Campeones 17,M+ Liga de Campeones 17
+M+ Liga de Campeones 18,M+ Liga de Campeones 18
+M+ Liga de Campeones 19,M+ Liga de Campeones 19
+Movistar Plus+ 2 HD,Movistar Plus+ 2 HD
+LaLiga TV Hypermotion 3,LaLiga TV Hypermotion 3
+M+ Liga de Campeones 4,M+ Liga de Campeones 4
+M+ Liga de Campeones 5,M+ Liga de Campeones 5
+M+ Liga de Campeones 6,M+ Liga de Campeones 6
+M+ Liga de Campeones 7,M+ Liga de Campeones 7
+M+ Liga de Campeones 8,M+ Liga de Campeones 8
+M+ Liga de Campeones 9,M+ Liga de Campeones 9
+M+ Liga de Campeones 10,M+ Liga de Campeones 10
+M+ Liga de Campeones 11,M+ Liga de Campeones 11
+M+ Liga de Campeones 12,M+ Liga de Campeones 12
+M+ Liga de Campeones 13,M+ Liga de Campeones 13
+M+ Deportes 4,M+ Deportes 4
+M+ Deportes 5,M+ Deportes 5
+M+ Deportes 6,M+ Deportes 6
+M+ Deportes 7,M+ Deportes 7
+M+ Deportes 8,M+ Deportes 8
+DAZN 3 HD,DAZN 3 HD
+DAZN 4 HD,DAZN 4 HD
+M+ LaLiga TV UHD,M+ LaLiga TV UHD
+Eurosport 4K,Eurosport 4K
+Vamos BAR,Vamos BAR
+Vamos BAR 2,Vamos BAR 2
+LaLiga TV BAR HD,LaLiga TV BAR HD
+LaLiga TV BAR 2,LaLiga TV BAR 2
+LaLiga TV BAR 3,LaLiga TV BAR 3
+Liga de Campeones BAR 2,Liga de Campeones BAR 2
+Liga de Campeones BAR 3,Liga de Campeones BAR 3
+Liga de Campeones BAR 4,Liga de Campeones BAR 4
+Liga de Campeones BAR 5,Liga de Campeones BAR 5
+Liga de Campeones BAR 6,Liga de Campeones BAR 6
+Liga de Campeones BAR 7,Liga de Campeones BAR 7
+Liga de Campeones BAR 8,Liga de Campeones BAR 8
+Liga de Campeones BAR 9,Liga de Campeones BAR 9
+Liga de Campeones BAR 10,Liga de Campeones BAR 10
+Liga de Campeones BAR 11,Liga de Campeones BAR 11
+Liga de Campeones BAR 12,Liga de Campeones BAR 12
+GolStadium BAR,GolStadium BAR
+DAZN F1 BAR,DAZN F1 BAR
+GolStadium,GolStadium
+Iberalia pesca,Iberalia pesca
+Iberalia caza,Iberalia caza
+FEF TV 1 Grupo 1,FEF TV 1 Grupo 1
+FEF TV 2 Grupo 1,FEF TV 2 Grupo 1
+FEF TV 3 Grupo 1,FEF TV 3 Grupo 1
+FEF TV 4 Grupo 1,FEF TV 4 Grupo 1
+FEF TV 5 Grupo 1,FEF TV 5 Grupo 1
+FEF TV 1 Grupo 2,FEF TV 1 Grupo 2
+FEF TV 2 Grupo 2,FEF TV 2 Grupo 2
+FEF TV 3 Grupo 2,FEF TV 3 Grupo 2
+FEF TV 4 Grupo 2,FEF TV 4 Grupo 2
+FEF TV 5 Grupo 2,FEF TV 5 Grupo 2
+DAZN LaLiga Femenina 1,DAZN LaLiga Femenina 1
+DAZN LaLiga Femenina 2,DAZN LaLiga Femenina 2
+DAZN LaLiga Femenina 3,DAZN LaLiga Femenina 3
+DAZN LaLiga Femenina 4,DAZN LaLiga Femenina 4
+Onetoro,Onetoro
+Onda Cádiz TV,Onda Cádiz TV
+Squirrel TV,Squirrel TV
+Lolly Kids,Lolly Kids
+Somos Cine,Somos Cine
+De Series,De Series
+Los Conciertos de Radio 3,Los Conciertos de Radio 3
+Clásicos atresplayer,Clásicos atresplayer
+Multicine atresplayer,Multicine atresplayer
+Comedia atresplayer,Comedia atresplayer
+Inquietos atresplayer,Inquietos atresplayer
+Flooxer,Flooxer
+Kidz,Kidz
+ATRESplayer PREMIUM,ATRESplayer PREMIUM
+acontra+,acontra+
+Escapa TV,Escapa TV
+En Familia (Rakuten TV),En Familia (Rakuten TV)
+Todo Crimen (Rakuten TV),Todo Crimen (Rakuten TV)
+Crimen (Rakuten TV),Crimen (Rakuten TV)
+MyTime Movie Network (Rakuten TV),MyTime Movie Network (Rakuten TV)
+Thrillers (Rakuten TV),Thrillers (Rakuten TV)
+Cine Español (Rakuten TV),Cine Español (Rakuten TV)
+Películas Románticas (Rakuten TV),Películas Románticas (Rakuten TV)
+Dramas (Rakuten TV),Dramas (Rakuten TV)
+Comedias (Rakuten TV),Comedias (Rakuten TV)
+Acción (Rakuten TV),Acción (Rakuten TV)
+Pelis Top (Rakuten TV),Pelis Top (Rakuten TV)
+Fashion TV,Fashion TV
+Red Bull TV,Red Bull TV
+AMC HD,AMC HD
+Sundance TV,Sundance TV
+Somos,Somos
+DARK,DARK
+XTRM,XTRM
+Odisea,Odisea
+AMC Crime,AMC Crime
+AMC Break,AMC Break
+BuenViaje,BuenViaje
+Canal Hollywood HD,Canal Hollywood HD
+Historia,Historia
+Canal Cocina,Canal Cocina
+Enfamilia,Enfamilia
+Decasa,Decasa
+Canal Sur 2,Canal Sur 2
+7TV Andalucía,7TV Andalucía
+SELEKT,SELEKT
+Runtime Thriller-Terror,Runtime Thriller-Terror
+Runtime Comedia,Runtime Comedia
+Runtime Cine y Series,Runtime Cine y Series
+Runtime Series,Runtime Series
+Runtime Acción,Runtime Acción
+Runtime Crimen,Runtime Crimen
+Runtime Romance,Runtime Romance
+Cines Verdi TV,Verdi TV
+Cine Feel Good,Cine Feel Good
+Surf Channel,Surf Channel
+MTV Live,MTV Live
+Sol Música,Sol Música
+Cazavisión,Cazavisión
+TR3CE,TR3CE
+Tennis Channel,Tennis Channel
+NatureTime,NatureTime
+Myzen TV,Myzen TV
+Runtime Clásicos,Runtime Clásicos
+Runtime Familia,Runtime Familia
+La Liga Inside,La Liga Inside
+AZ Corazón,AZ Corazón
+Xtrem Sports,Xtrem Sports
+El País,El País
+El Confidencial,El Confidencial
+Planeta de Cine,Planeta de Cine
+1+1 International,1+1 International
+VE PLUS TV,VE PLUS TV
+Extreme Sports,Extreme Sports
+Horse TV,Horse TV
+beIN SPORTS en español,beIN SPORTS en español
+beIN SPORTS XTRA ñ,beIN SPORTS XTRA ñ
+CNN en Español,CNN en Español
+Concert Channel,Concert Channel
+Star TVE HD,Star TVE HD
+Discovery Turbo,Discovery Turbo
+NickMusic,NickMusic
+El Garage TV,El Garage TV
+Atrescine,Atrescine
+MTV Classic,MTV Classic
+Bom Cine,Bom Cine

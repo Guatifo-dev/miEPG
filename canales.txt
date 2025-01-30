@@ -34,6 +34,7 @@ Calle 13 HD,Calle 13 HD
 Cosmo HD,Cosmo HD
 SyFy HD,SyFy HD
 Energy,Energy
+SkyShowtime,SkyShowtime
 Factoría de Ficción,Factoría de Ficción
 Neox,Neox
 Caza y Pesca HD,Caza y Pesca HD

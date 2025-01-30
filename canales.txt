@@ -25,7 +25,7 @@ BBC Drama,BBC Drama
 BBC Top Gear,BBC Top Gear
 Paramount Network,Paramount Network
 Be Mad,Be Mad
-Bom Cine,Bom Cine
+BOM Cine,BOM Cine
 STAR Channel HD,STAR Channel HD
 AXN HD,AXN HD
 Warner TV HD,Warner TV HD
